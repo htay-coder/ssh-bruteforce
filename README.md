@@ -18,7 +18,7 @@ Key Features:
  - Install External Modules:
    `pip install pwntools paramiko`.
 
- - Change the IP Address of the victim aswell, wordlist to use aswell the username to attack.
+ - Change the IP Address of the victim, wordlist to use aswell the username to attack.
    
  - Run ssh-bruteforce.py on the attacker machine:
    `python ssh-bruteforce.py`.
